@@ -4,7 +4,7 @@ This This repository contains six projects showcasing the use of Gemini AI. Each
 
 ## Projects Overview
 
-1. *Project 1: (Chatbot.py) and  (chat.py)
+1. *Project 1: (QA Chat.py) and  (chat.py)
    - *Description:* app.py contains the code for a conversational AI chatbot built using Gemini AI. This chatbot is designed to interact with users in natural language, providing context-aware and accurate responses based on the trained models.
    - *Key Features:*
      - Natural language understanding
